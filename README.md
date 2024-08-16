@@ -12,3 +12,5 @@
 4. No rodapé, adicione um copyright com o ano atual.
 5. Aplique estilos à sua página usando classes do Bootstrap, como por exemplo as classes para cores de fundo e texto.
 6. Certifique-se de que sua página é responsiva e se adapta a diferentes tamanhos de tela.​
+# Minha Resposta :
+![Captura de tela 2024-08-16 141612](https://github.com/user-attachments/assets/d13849d5-9a3d-4042-ac5b-23798d056ccb)
